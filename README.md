@@ -1,2 +1,2 @@
 # blog
-https://stronadawidastefa.000webhostapp.com/index.php
+https://stronadawidastefa.000webhostapp.com/
